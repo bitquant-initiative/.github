@@ -1,1 +1,1 @@
-# .github
+# bitquant-initiative
